@@ -32,6 +32,9 @@ The config file is "sysinfo.ini"
 You can put there Distro name, version, desktop enviroment name, version, prefered language
 
 ----------
+Help me with localisation: https://crowdin.com/project/altf4-menu-for-linux/
+
+----------
 Credits:
 Created by Se1d228
 Code: Microsoft Copilot
