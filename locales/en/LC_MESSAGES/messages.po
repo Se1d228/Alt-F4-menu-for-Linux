@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Shut down Linux"
+msgstr "Shut down Linux"
+
+msgid "What should your computer do?"
+msgstr "What should your computer do?"
+
+msgid "Shut down"
+msgstr "Shut down"
+
+msgid "Reboot"
+msgstr "Reboot"
+
+msgid "Log out"
+msgstr "Log out"
+
+msgid "Switch user / Lock screen"
+msgstr "Switch user / Lock screen"
+
+msgid "Sleep mode"
+msgstr "Sleep mode"
+
+msgid "Shutting down the computer."
+msgstr "Shutting down the computer."
+
+msgid "Rebooting the computer."
+msgstr "Rebooting the computer."
+
+msgid "Logging out from the current session."
+msgstr "Logging out from the current session."
+
+msgid "Locking screen to switch user."
+msgstr "Locking screen to switch user."
+
+msgid "Putting the computer to sleep."
+msgstr "Putting the computer to sleep."
+
+msgid "HELP"
+msgstr "HELP"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "CANCEL"
+msgstr "CANCEL"
