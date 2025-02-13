@@ -1,9 +1,12 @@
-Overview
+Overview: 
 This python code is representing Windows Alt+F4 menu
+----------
 ![изображение](https://github.com/user-attachments/assets/a1b99041-e56e-407e-8a0b-ff465bf8e27b)
+
 ----------
 Made for:
 Alpine linux + KDE Plasma desktop enviroment
+
 ----------
 Prerequireties:
 Python3
@@ -23,6 +26,11 @@ Installation (for Alpine+Plasma):
 8) As KDE plasma already reserved Alt+F4, setting shortcut to Meta+F4 (Meta is WINDOWS key)
 9) "Apply"
 10) Good to go!
+----------
+Configuration:
+The config file is "sysinfo.ini"
+You can put there Distro name, version, desktop enviroment name, version, prefered language
+
 ----------
 Credits:
 Created by Se1d228
