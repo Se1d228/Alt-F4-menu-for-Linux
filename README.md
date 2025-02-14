@@ -30,6 +30,8 @@ Installation (for Alpine+Plasma):
 Configuration:
 The config file is "sysinfo.ini"
 You can put there Distro name, version, desktop enviroment name, version, prefered language
+You also can change logos. You must have distro_logo.png (160x160) and de_logo.png (also 160x160)
+Optionally you can change PC icon: computer_logo.png (80x80)
 
 ----------
 Help me with translation: [https://crowdin.com/project/altf4-menu-for-linux/](https://crowdin.com/project/altf4-menu-for-linux/invite?h=6561344edf467e57de475f5c80f0935c2349115)
